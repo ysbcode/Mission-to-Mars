@@ -19,15 +19,19 @@ An instance of Flask was created and a connection to the database was establishe
 ### Screenshots
 Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 ![](https://github.com/ysbcode/Mission-to-Mars/blob/main/Resources/Mobile%20Responsive_Button_Table_Image.PNG?raw=true)
+___
 
 Deliverable 2: Mars Hemisphere full-resolution Images
 ![](https://github.com/ysbcode/Mission-to-Mars/blob/main/Resources/Mars_Hemispheres.PNG?raw=true)
+___
 
 Deliverable 3: Mobile-friendly version with smaller screen
 ![](https://github.com/ysbcode/Mission-to-Mars/blob/main/Resources/Mobile_Friendly.PNG?raw=true)
+___
 
 Adding Style to Button
 ![](https://github.com/ysbcode/Mission-to-Mars/blob/main/Resources/Button_Style.PNG?raw=true)
+___
 
 Adding Thumbnail to Image
 ![](https://github.com/ysbcode/Mission-to-Mars/blob/main/Resources/Image_Thumbnail.PNG?raw=true)
